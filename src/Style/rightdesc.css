@@ -1,0 +1,135 @@
+.publish-div {
+  box-shadow: 0 0 10px grey;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.publish-arrow {
+  display: flex;
+}
+
+.arrow-main-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.same-btn {
+  background: lightgrey;
+  border: 1px solid dodgerblue;
+  color: dodgerblue;
+  font-size: 0.8rem;
+  border-radius: 7px;
+  height: 2rem;
+}
+
+.icon-div {
+  color: dimgray;
+  margin-top: 0.5rem;
+}
+
+.bold-text {
+  color: black;
+  font-weight: 500;
+}
+
+.edit {
+  color: red;
+  text-decoration: underline;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+.publish-btn {
+  background: dodgerblue;
+  color: white;
+  border: 1px solid grey;
+  border-radius: 4px;
+  height: 2rem;
+  font-size: 0.8rem;
+  width: 6rem;
+}
+
+.check-div {
+  border: 1px solid lightgrey;
+  padding: 1rem;
+}
+
+.cond-btn {
+  background: transparent;
+  width: 100%;
+  border: 1px solid lightgrey;
+  font-size: 0.9rem;
+  border-bottom: none;
+  height: 2rem;
+}
+
+.cond-btn-div {
+  display: flex;
+}
+
+.add-new {
+  margin-top: 0.7rem;
+  color: dodgerblue;
+  text-decoration: underline;
+}
+
+.fa-times-circle-o {
+  color: blue;
+}
+
+.all-icon-text {
+  color: darkslategrey;
+  font-size: 0.9rem;
+}
+
+.add-btn {
+  color: dodgerblue;
+  border: 1px solid dodgerblue;
+  border-radius: 5px;
+  width: 4rem;
+  height: 2rem;
+  background-color: transparent;
+}
+
+.search-text {
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  width: 60%;
+  height: 2rem;
+}
+
+.data-image {
+  width: 100%;
+}
+
+.click {
+  margin-top: 1rem;
+  color: grey;
+  font-size: 0.9rem;
+}
+
+.remove {
+  color: dodgerblue;
+  font-size: 0.8rem;
+  text-decoration: underline;
+}
+
+.package-title {
+  font-size: 2rem;
+}
+
+.pt-input {
+  height: 4rem;
+}
+
+.pkg-desc {
+  margin-top: 1rem;
+  font-weight: 500;
+}
+
+.pkg-desc-two {
+    font-weight: 500;
+  }
+  

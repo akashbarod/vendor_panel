@@ -1,0 +1,250 @@
+.common-package-desc-div {
+  background: lightgrey;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.media-btn {
+  border: 1px solid dodgerblue;
+  color: dodgerblue;
+  font-size: 0.8rem;
+  height: 2rem;
+  border-radius: 0.4rem;
+}
+
+.button-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.visual-text-btn {
+  border: 1px solid darkgrey;
+  background: transparent;
+  color: dimgrey;
+  font-size: 0.8rem;
+  height: 2rem;
+  border-radius: 0.2rem;
+}
+
+.drop-row {
+  display: flex;
+}
+
+.drop-row-common {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid darkgrey;
+  margin-top: 3px;
+  padding-right: 4px;
+  padding-left: 1px;
+}
+
+.para-btn {
+  background: white !important;
+  color: grey !important;
+  font-size: 0.7rem !important;
+}
+
+.common-btn-all {
+  background: transparent;
+  border: none;
+}
+
+.text-area {
+  width: 100%;
+}
+
+.para-footer-div {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  background: white;
+  padding: 0.1rem;
+  color: dimgrey;
+  height: 1.7rem;
+}
+
+.para-p {
+  margin: 5px;
+}
+
+.grade-div {
+  display: flex;
+}
+
+.category-drop {
+  background: transparent;
+  color: darkslategrey;
+  font-size: 0.8rem;
+  width: 8rem;
+}
+
+.primary-div {
+  background: lightgrey;
+  padding: 0.8rem;
+  border-radius: 0.5rem;
+}
+
+.secondary-div {
+  border: 1px solid darkgrey;
+  /* padding: 1rem; */
+}
+
+.expand-div {
+  display: flex;
+}
+
+.exp-col {
+  color: dodgerblue;
+  font-size: 0.8rem;
+}
+
+.bd {
+  align-items: baseline;
+  background: white;
+  border-bottom: 1px solid darkgrey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.new-content-btn {
+  color: dodgerblue;
+  border: 1px solid dodgerblue;
+  font-size: 0.8rem;
+  height: 2rem;
+  border-radius: 4px;
+}
+
+.stack-div {
+  border: 1px solid darkgrey;
+  border-radius: 7px;
+  font-size: 0.8rem;
+  padding: 4px;
+  height: 2.5rem;
+  background: lightblue;
+  padding-left: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.7rem;
+}
+
+.upload-btn {
+  background: transparent;
+  border: 1px solid mediumblue;
+  color: mediumblue;
+  font-size: 0.8rem;
+  height: 2rem;
+  border-radius: 9px;
+}
+
+.update-lesson {
+  margin: 1rem;
+  background: mediumblue;
+  color: white;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  font-size: 0.9rem;
+  width: 8rem;
+  font-weight: 800;
+}
+
+.checked-condition {
+  color: dimgrey;
+  font-size: 0.7rem;
+  font-style: italic;
+}
+
+.label-course {
+  color: darkslategrey;
+  font-size: 0.9rem;
+}
+
+.fc {
+  margin-top: 1rem;
+}
+
+.video-time {
+  font-weight: 500;
+  font-size: 0.9rem;
+  margin-bottom: 5px;
+  margin-top: 0.5rem;
+}
+
+.common-time-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.all-inp {
+  width: 90%;
+}
+
+.select-sports {
+  background: white;
+  width: 38%;
+  color: grey;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-top: 8px;
+}
+
+.enter-text {
+  background: darkgrey;
+  border: none;
+  height: 3rem;
+  margin-top: 1rem;
+  border-radius: 7px;
+  color: white;
+  padding-left: 1rem;
+}
+
+.text-area-data {
+  width: 90%;
+  height: 7rem;
+  padding: 5px;
+}
+
+.all-month {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inp-text {
+  width: 90%;
+}
+
+.add-data-div {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid darkgrey;
+  padding-left: 8px;
+  padding-right: 11px;
+  padding-top: 4px;
+  margin-bottom: 10px;
+}
+
+.main-add-data-div {
+  border: 1px solid darkgrey;
+}
+.common-p {
+  font-weight: 600;
+  margin-left: 5px;
+}
+
+.madd{
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+.bd-one{
+  padding: 1rem;
+}
+
+.cont-div{
+  padding: 1rem;
+}
+
+.inpp{
+  width: 100%;
+}
